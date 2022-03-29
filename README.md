@@ -1,3 +1,3 @@
 # exploring-git
 
-This repo used for exploring git from igirishkumar
+This repo used to exploring git from igirishkumar
